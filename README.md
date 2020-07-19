@@ -1,2 +1,8 @@
-# Hello-world
-First step of many 
+#include<studio.h>
+#include<conio.h>
+Void main () 
+{ 
+Printf("hello world"); 
+Getch();
+}
+
